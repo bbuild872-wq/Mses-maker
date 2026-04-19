@@ -1,2 +1,5 @@
-This Should be only use to make your own custom ms
-Made By Kiyonu/Pigeon
+🛠 Built With
+HTML5
+CSS3
+JavaScript
+Google Fonts (Orbitron & Rajdhani)
