@@ -1,4 +1,1 @@
-Open the website
-Click the Launch CPS Test button
-A CPS test page will open in a new tab
-Start clicking and test your speed
+This Should be only use to make your own custom ms
